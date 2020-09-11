@@ -13,5 +13,5 @@
 находится сама фигура.
 ***
 
-![Фигура]/https://github.com/DariaAzanovich/Figures-position/figure.jpg)
+![Фигура](https://github.com/DariaAzanovich/Figures-position/blob/master/figure.jpg)
 
