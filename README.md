@@ -1,4 +1,4 @@
-https://dariaazanovich.github.io/Figures-position/
+https://dariaazanovich.github.io/figures-position/
 
 # Figures-position
 
